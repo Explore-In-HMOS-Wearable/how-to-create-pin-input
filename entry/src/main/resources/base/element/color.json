@@ -1,0 +1,110 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "grey_light",
+      "value": "#9ce7e7e7"
+    },
+    {
+      "name": "grey_medium",
+      "value": "#ff969696"
+    },
+    {
+      "name": "navText_normal",
+      "value": "#b3b1b4"
+    },
+
+    {
+      "name": "navText_selected",
+      "value": "#000000"
+    },
+    {
+      "name": "sb_background",
+      "value": "#ececec"
+    },
+    {
+      "name": "sb_text_font_color",
+      "value": "#555455"
+    },
+    {
+      "name": "home_item_mock_row",
+      "value": "#f8e4fc"
+    },
+    {
+      "name": "coffee_green",
+      "value": "#00643c"
+    },
+    {
+      "name": "button",
+      "value": "#223429"
+    },
+    {
+      "name": "text_gold",
+      "value": "#D6A74F"
+    },
+    {
+      "name": "background_sim",
+      "value": "#EFEFED"
+    },
+    {
+      "name": "starbucks_light_green",
+      "value": "#54F154"
+    }
+  ,
+    {
+      "name": "background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "title_text_color",
+      "value": "#182431"
+    },
+    {
+      "name": "login_more_text_color",
+      "value": "#99182431"
+    },
+    {
+      "name": "placeholder_color",
+      "value": "#99182431"
+    },
+    {
+      "name": "line_color",
+      "value": "#0D000000"
+    },
+    {
+      "name": "login_button_color",
+      "value": "#007DFF"
+    },
+    {
+      "name": "login_button_disable",
+      "value": "#F3F2F4F6"
+    },
+    {
+      "name": "login_font_disable",
+      "value": "#66FFFFFF"
+    },
+    {
+      "name": "login_blue_text_color",
+      "value": "#007DFF"
+    },
+    {
+      "name": "verify_wrong_hints_color",
+      "value": "#FFFA2A2D"
+    },
+    {
+      "name": "home_grid_font_color",
+      "value": "#99182431"
+    },
+    {
+      "name": "simbuk",
+      "value": "#D7D01B3D"
+    },
+    {
+      "name": "header_container",
+      "value": "#D707091C"
+    }
+  ]
+}
